@@ -26,3 +26,9 @@ address. </li>
       <li>Common use: Home Wi-Fi routers, small office/home office (SOHO) networks, and consumer gear.</li>
     </ul>
 </ul>
+
+<h2>References</h2>
+<ul>
+  <li>https://serverfault.com/questions/932626/why-do-people-use-172-x-x-x-instead-of-192-x-x-x</li>
+  <li><a href="https://www.truenas.com/download/">TrueNAS</a></li>
+</ul>
