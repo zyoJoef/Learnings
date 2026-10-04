@@ -1,6 +1,6 @@
 # SOHO Network
 
-A SOHO Network (Small Office/Home Office network) is a small-scale Local Area Network (LAN) designed to connect a limited number of devices—typically supporting 1 to 10 users—in a home or small business environment.
+A SOHO Network (Small Office/Home Office network) is a small-scale Local Area Network (LAN) designed to connect a limited number of devices, typically supporting 1 to 10 users in a home or small business environment.
 
 <h2>Key Characteristics</h2>
 <ul>
