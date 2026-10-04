@@ -11,12 +11,6 @@ Reserved Private IP Ranges
 
 
 
-
-172.16.0.0-172.31.255.255 (172.16.0.0/12)
-Size: 16 contiguous Class B networks (1,048,576 total addresses)
-Common use: Medium-to-large corporate networks, universities, Docker containers, and mobile networks.
-Important note: Only the 172.16.x.x through 172.31.x.x block is private; any other 172.x.x.x address is a publicly routable internet
-address. American Registry for
 192.168.0.0-192.168.255.255 (192.168.0.0/16)
 Size: 256 contiguous Class C networks (65,536 total addresses)
 Common use: Home Wi-Fi routers, small office/home office (SOHO) networks, and consumer gear. Super User 3
@@ -29,11 +23,12 @@ Common use: Home Wi-Fi routers, small office/home office (SOHO) networks, and co
       <li>Common use: Very large enterprise networks, corporate campuses, and cloud infrastructure (like AWS or GCP VPCS)</li>
     </ul>
 
-  <h3 id="list-title">MacOs Theme</h3>
+  <h3 id="list-title">172.16.0.0-172.31.255.255 (172.16.0.0/12)</h3>
     <ul>
-      <li><a href="https://cutefish-ubuntu.github.io/download/">Cutefish OS</a></li>
-      <li><a href="https://elementary.io/">ElementaryOS</a></li>
-      <li><a href="https://sourceforge.net/projects/lingmo-os/">LingmoOS</a></li>
+      <li>Size: 16 contiguous Class B networks (1,048,576 total addresses)</li>
+      <li>Common use: Medium-to-large corporate networks, universities, Docker containers, and mobile networks.</li>
+      <li>Important note: Only the 172.16.x.x through 172.31.x.x block is private; any other 172.x.x.x address is a publicly routable internet
+address. </li>
       <li><a href="https://pearos.xyz/nicecore/">PearOS</a></li>
     </ul>
   
