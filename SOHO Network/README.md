@@ -17,3 +17,11 @@ A SOHO Network (Small Office/Home Office network) is a small-scale Local Area Ne
   <li>Wireless Access Point: Extends Wi-Fi coverage across the home or office space.</li>
   <li>End Devices: Computers, smartphones, printers, and smart TVs.</li>
 </ul>
+
+<h2>References</h2>
+<ul>
+  <li>https://www.optcore.net/what-is-soho-network-w3/</li>
+  <li>https://www.geeksforgeeks.org/computer-networks/what-is-a-small-office-home-office-soho-network/</li>
+  <li>https://www.youtube.com/watch?v=AeMCIicCYiI&t=7s</li>
+  <li>https://www.fs.com/blog/what-is-a-small-office-home-office-soho-network-and-how-to-set-up-one-1145.html</li>
+</ul>
