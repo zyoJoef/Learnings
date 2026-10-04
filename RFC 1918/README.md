@@ -30,5 +30,6 @@ address. </li>
 <h2>References</h2>
 <ul>
   <li>https://serverfault.com/questions/932626/why-do-people-use-172-x-x-x-instead-of-192-x-x-x</li>
-  <li><a href="https://www.truenas.com/download/">TrueNAS</a></li>
+  <li>https://www.arin.net/reference/research/statistics/address_filters/</li>
+  <li>https://superuser.com/questions/369617/what-do-the-different-formats-for-network-addresses-indicate</li>
 </ul>
