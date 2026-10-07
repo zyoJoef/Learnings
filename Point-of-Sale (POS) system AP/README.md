@@ -13,6 +13,17 @@ As I was browsing on the platform Reddit, I stumbled across some post that have 
   <li>Firewall Protection: Block unauthorized inbound and outbound traffic to the POS subnet.</li>
 </ul>
 
+<h2>Key Concepts</h2>
+<ul>
+  <li>Network Segmentation (VLANs): Business networks often use Virtual Local Area Networks (VLANs) to separate POS hardware from public guest Wi-Fi. This keeps sensitive payment and customer data secure from outside           users.</li>
+  <li>Traffic Prioritization (QoS): Access points often feature Quality of Service (QoS) rules to ensure that payment transactions take priority over general web browsing or customer streaming. This prevents slow credit       card approvals during busy hours.</li>
+  <li>Strong Encryption: Use WPA3 or WPA2-Enterprise; avoid weak or outdated protocols.</li>
+  <li>Default Credentials: Change all factory administrator passwords and usernames immediately.</li>
+  <li>Dedicated SSIDs: Network administrators frequently configure a hidden or private Wi-Fi name (SSID) on the access point exclusively for the store's POS tablets and barcode scanners.</li>
+  <li>Firewall Protection: Block unauthorized inbound and outbound traffic to the POS subnet.</li>
+  <li>Access Control: Disable SSID broadcasting and limit connections to authorized MAC addresses.</li>
+</ul>
+
 <h2> Implementation Options</h2>
 <table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
   <thead>
