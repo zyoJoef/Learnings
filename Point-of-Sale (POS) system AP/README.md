@@ -1,17 +1,16 @@
 # Point-of-Sale (POS) system Access Point (AP)
 As I was browsing on the platform Reddit, I stumbled across some post that have two Ubiquiti Access Point (AP) that are right next to each other, which made me quesiton, why? And I seem to notice it too in some malls that I've visit.
 
+
+
 <h2>What is Point-of-Sale (POS)?</h2>
 <p>POS stands for Point of Sale. It refers to connecting, prioritizing, or segmenting wireless or wired traffic for digital cash registers, card payment terminals, and inventory scanners.</p>
 
+
 <h2>PCI Compliance?</h2>
 <p>PCI compliance for a wireless Point-of-Sale (POS) device connected through a Wi-Fi access point means ensuring that the wireless network infrastructure securely transmits payment data without exposing it to unauthorized users. And securing wireless Access Points (APs) for a Point-of-Sale (POS) system requires strict adherence to Payment Card Industry Data Security Standard (PCI DSS) guidelines to protect the Cardholder Data Environment (CDE).</p>
-<ul>
-  <li>Network Segmentation (VLANs): Business networks often use Virtual Local Area Networks (VLANs) to separate POS hardware from public guest Wi-Fi. This keeps sensitive payment and customer data secure from outside           users.</li>
-  <li>Traffic Prioritization (QoS): Access points often feature Quality of Service (QoS) rules to ensure that payment transactions take priority over general web browsing or customer streaming. This prevents slow credit card   approvals during busy hours.</li>
-  <li>Dedicated SSIDs: Network administrators frequently configure a hidden or private Wi-Fi name (SSID) on the access point exclusively for the store's POS tablets and barcode scanners.</li>
-  <li>Firewall Protection: Block unauthorized inbound and outbound traffic to the POS subnet.</li>
-</ul>
+
+
 
 <h2>Key Concepts</h2>
 <ul>
@@ -23,6 +22,8 @@ As I was browsing on the platform Reddit, I stumbled across some post that have 
   <li>Firewall Protection: Block unauthorized inbound and outbound traffic to the POS subnet.</li>
   <li>Access Control: Disable SSID broadcasting and limit connections to authorized MAC addresses.</li>
 </ul>
+
+
 
 <h2> Implementation Options</h2>
 <table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
@@ -49,6 +50,8 @@ As I was browsing on the platform Reddit, I stumbled across some post that have 
     </tr>
   </tbody>
 </table>
+
+
 
 <h2>References</h2>
 <ul>
