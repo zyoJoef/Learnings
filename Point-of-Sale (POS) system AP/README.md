@@ -5,10 +5,10 @@ As I was browsing on the platform Reddit, I stumbled across some post that have 
 <p>POS stands for Point of Sale. It refers to connecting, prioritizing, or segmenting wireless or wired traffic for digital cash registers, card payment terminals, and inventory scanners.</p>
 <ul>
   <li>Network Segmentation (VLANs): Business networks often use Virtual Local Area Networks (VLANs) to separate POS hardware from public guest Wi-Fi. This keeps sensitive payment and customer data secure from outside           users.</li>
-    <br>
   <li>Traffic Prioritization (QoS): Access points often feature Quality of Service (QoS) rules to ensure that payment transactions take priority over general web browsing or customer streaming. This prevents slow credit card   approvals during busy hours.</li>
-    <br>
   <li>Dedicated SSIDs: Network administrators frequently configure a hidden or private Wi-Fi name (SSID) on the access point exclusively for the store's POS tablets and barcode scanners.</li>
+  <li>Firewall Protection: Block unauthorized inbound and outbound traffic to the POS subnet.</li>
+  <li>Access Control: Disable SSID broadcasting and limit connections to authorized MAC addresses.</li>
 </ul>
 
 <h2> Implementation Options</h2>
