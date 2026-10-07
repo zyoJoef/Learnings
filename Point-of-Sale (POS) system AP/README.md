@@ -11,8 +11,8 @@ As I was browsing on the platform Reddit, I stumbled across some post that have 
   <li>Access Control: Disable SSID broadcasting and limit connections to authorized MAC addresses.</li>
 </ul>
 
-<h2>POS PCI Compliance?</h2>
-<p>POS stands for Point of Sale. It refers to connecting, prioritizing, or segmenting wireless or wired traffic for digital cash registers, card payment terminals, and inventory scanners.</p>
+<h2>PCI Compliance?</h2>
+<p>PCI compliance for a wireless Point-of-Sale (POS) device connected through a Wi-Fi access point means ensuring that the wireless network infrastructure securely transmits payment data without exposing it to unauthorized users.</p>
 <ul>
   <li>Network Segmentation (VLANs): Business networks often use Virtual Local Area Networks (VLANs) to separate POS hardware from public guest Wi-Fi. This keeps sensitive payment and customer data secure from outside           users.</li>
   <li>Traffic Prioritization (QoS): Access points often feature Quality of Service (QoS) rules to ensure that payment transactions take priority over general web browsing or customer streaming. This prevents slow credit card   approvals during busy hours.</li>
