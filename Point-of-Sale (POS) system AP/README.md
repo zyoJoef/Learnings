@@ -11,6 +11,15 @@ As I was browsing on the platform Reddit, I stumbled across some post that have 
   <li>Access Control: Disable SSID broadcasting and limit connections to authorized MAC addresses.</li>
 </ul>
 
+<h2>POS PCI Compliance?</h2>
+<p>POS stands for Point of Sale. It refers to connecting, prioritizing, or segmenting wireless or wired traffic for digital cash registers, card payment terminals, and inventory scanners.</p>
+<ul>
+  <li>Network Segmentation (VLANs): Business networks often use Virtual Local Area Networks (VLANs) to separate POS hardware from public guest Wi-Fi. This keeps sensitive payment and customer data secure from outside           users.</li>
+  <li>Traffic Prioritization (QoS): Access points often feature Quality of Service (QoS) rules to ensure that payment transactions take priority over general web browsing or customer streaming. This prevents slow credit card   approvals during busy hours.</li>
+  <li>Dedicated SSIDs: Network administrators frequently configure a hidden or private Wi-Fi name (SSID) on the access point exclusively for the store's POS tablets and barcode scanners.</li>
+  <li>Firewall Protection: Block unauthorized inbound and outbound traffic to the POS subnet.</li>
+</ul>
+
 <h2> Implementation Options</h2>
 <table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
   <thead>
@@ -51,6 +60,7 @@ As I was browsing on the platform Reddit, I stumbled across some post that have 
   <li>https://www.quora.com/How-does-a-point-of-sale-system-PoS-work-using-WiFi</li>
   <li>https://www.technibble.com/forums/threads/adding-wireless-access-to-one-room.46834/</li>
   <li>https://www.tp-link.com/ph/blog/2512/setting-up-wi-fi-for-your-small-business-in-the-philippines-cafes-salons-and-spas/</li>
+  <li>https://listings.pcisecuritystandards.org/documents/PCI_DSS-QRG-v3_2_1.pdf</li>
   <li>https://www.reddit.com/r/Ubiquiti/comments/y4to4x/spotted_in_the_wild/</li>
   <li>https://www.reddit.com/r/Ubiquiti/comments/1lq34qr/spotted_in_the_wild/</li>
   <li>https://www.reddit.com/r/Ubiquiti/comments/1bfs61r/caught_in_the_wild/</li>
