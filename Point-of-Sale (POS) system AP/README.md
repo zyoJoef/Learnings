@@ -15,8 +15,10 @@ As I was browsing on the platform Reddit, I stumbled across some post that have 
   <li>https://www.fortinet.com/resources/cyberglossary/what-is-pci-compliance</li>
   <li>https://kirkpatrickprice.com/video/pci-requirement-9-1-3-restrict-physical-access-wireless-access-points-gateways-handheld-devices-networking-communications-hardware-telecommunication-lines/</li>
   <li>https://www.reddit.com/r/Ubiquiti/comments/r563op/tell_me_you_dont_understand_wifi_gear_without/</li>
+  <li>https://www.itretail.com/blog/pos-pci-compliance</li>
+  <li>https://squareup.com/ca/en/the-bottom-line/operating-your-business/pci-compliance</li>
   <li>https://www.reddit.com/r/Ubiquiti/comments/y4to4x/spotted_in_the_wild/</li>
   <li>https://www.reddit.com/r/Ubiquiti/comments/1lq34qr/spotted_in_the_wild/</li>
   <li>https://www.reddit.com/r/Ubiquiti/comments/1bfs61r/caught_in_the_wild/</li>
-  <li>https://www.reddit.com/r/Ubiquiti/comments/1qxq1ui/spotted_in_the_wild_2_is_better_than_1/</li>
+  <li>https://www.reddit.com/r/Ubiquiti/comments/1qxq1ui/spotted_in_the_wild_2_is_better_than_1/</li
 </ul>
