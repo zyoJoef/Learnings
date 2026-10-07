@@ -24,6 +24,10 @@ As I was browsing on the platform Reddit, I stumbled across some post that have 
   <li>https://www.reddit.com/r/Ubiquiti/comments/r563op/tell_me_you_dont_understand_wifi_gear_without/</li>
   <li>https://www.itretail.com/blog/pos-pci-compliance</li>
   <li>https://squareup.com/ca/en/the-bottom-line/operating-your-business/pci-compliance</li>
+  <li>https://www.reddit.com/r/networking/comments/nyh45b/point_of_sale_networking_general_advice_inquiry/</li>
+  <li>https://www.quora.com/How-does-a-point-of-sale-system-PoS-work-using-WiFi</li>
+  <li>https://www.technibble.com/forums/threads/adding-wireless-access-to-one-room.46834/</li>
+  <li>https://www.tp-link.com/ph/blog/2512/setting-up-wi-fi-for-your-small-business-in-the-philippines-cafes-salons-and-spas/</li>
   <li>https://www.reddit.com/r/Ubiquiti/comments/y4to4x/spotted_in_the_wild/</li>
   <li>https://www.reddit.com/r/Ubiquiti/comments/1lq34qr/spotted_in_the_wild/</li>
   <li>https://www.reddit.com/r/Ubiquiti/comments/1bfs61r/caught_in_the_wild/</li>
