@@ -1,4 +1,5 @@
 # Point-of-Sale (POS) system Access Point (AP)
+As I was browsing on the platform Reddit, I stumbled across some post that have two Ubiquiti Access Point (AP) that are right next to each other, which made me quesiton, why? And I seem to notice it too in some malls that I've visit.
 
 <h2></h2>
 <p></p>
