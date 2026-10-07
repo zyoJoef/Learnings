@@ -11,8 +11,31 @@ As I was browsing on the platform Reddit, I stumbled across some post that have 
   <li>Dedicated SSIDs: Network administrators frequently configure a hidden or private Wi-Fi name (SSID) on the access point exclusively for the store's POS tablets and barcode scanners.</li>
 </ul>
 
-<h2></h2>
-<p></p>
+<h2> Implementation Options</h2>
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <thead>
+    <tr>
+      <th>Strategy</th>
+      <th>Pros</th>
+      <th>Cons</th>
+      <th>Best For</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Physical AP Separation</td>
+      <td>Easiest to audit and verify visually</td>
+      <td>Requires buying extra hardware</td>
+      <td>Small shops with basic setups</td>
+    </tr>
+    <tr>
+      <td>VLAN Segmentation</td>
+      <td>Uses existing hardware efficiently</td>
+      <td>Complex configuration prone to errors</td>
+      <td>Locations with IT support</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2>References</h2>
 <ul>
