@@ -62,5 +62,6 @@ DNS Record Type (Pi-hole)
     <li>https://www.ibm.com/think/topics/dns-records</li>
     <li>https://qrator.net/library/learning-center/DNS/What-Are-DNS-Records/?utm_referrer=https%3A%2F%2Fwww.google.com%2F#understanding-dns-records</li>
     <li>https://www.name.com/blog/4-dns-record-types-you-should-know-about</li>
-    <li>https://www.youtube.com/watch?v=6uEwzkfViSM</li>   
+    <li>https://www.youtube.com/watch?v=6uEwzkfViSM</li>  
+    <li>https://www.cloudns.net/blog/dns-records-different-types/</li>
   </ul>
