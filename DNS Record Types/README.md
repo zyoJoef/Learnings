@@ -14,14 +14,16 @@ DNS Record Type (Pi-hole)
   </thead>
   <tbody>
     <tr>
-      <td>Laptop</td>
-      <td>1</td>
-      <td>$999</td>
+      <td>A</td>
+      <td>Address Record</td>
+      <td>Maps a domain name to a 32-bit IPv4 address</td>
+      <td>example.com &rarr; 102.0.2.1</td>
     </tr>
     <tr>
-      <td>Mouse</td>
-      <td>2</td>
-      <td>$25</td>
+      <td>AAAA</td>
+      <td>Quad-A Record</td>
+      <td>Maps a domain name to a 128-bit IPv6 address</td>
+      <td>example.com &rarr; 2001:db8::1</td>
     </tr>
   </tbody>
 </table>
