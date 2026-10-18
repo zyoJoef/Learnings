@@ -55,6 +55,16 @@
 </table>
 
 
+<h2>Why Switch from Your ISP's DNS?</h2>
+  <ul>
+    <li><b>Speed</b>: Public DNS providers run large global network infrastructures that often resolve names faster than default Internet Service Provider (ISP) servers.</li>
+    <li><b>Security</b>: Many public options support security layers like DNS over HTTPS (DoH) and DNS over TLS (DoT) to encrypt your traffic, or automatically filter out phishing and malicious domains.</li>
+    <li><b>Privacy</b>: Providers like Cloudflare and Quad9 commit to never logging or selling your browsing data.</li>
+  </ul>
+You can look up alternative live server addresses on databases like Public DNS Server List or test your current connection using tools on DNSChecker
+
+
+
 <h2>References</h2>
   <ul>
     <li>https://www.lifewire.com/free-and-public-dns-servers-2626062</li>
