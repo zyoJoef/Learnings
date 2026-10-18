@@ -54,3 +54,13 @@ DNS Record Type (Pi-hole)
     <ul>
       <li>The HTTPS record allows the authoritative DNS server to tell the browser exactly how to securely connect right away including which HTTP versions are supported (like HI IP/3) and public key components for               Encrypted Client Hello (ECH)-improving both speed and privacy.</li>
     </ul>
+
+<h2>References</h2>
+  <ul>
+    <li>https://linuxize.com/post/dns-record-types-explained/</li>
+    <li>https://developers.cloudflare.com/dns/manage-dns-records/reference/dns-record-types/</li>
+    <li>https://www.ibm.com/think/topics/dns-records</li>
+    <li>https://qrator.net/library/learning-center/DNS/What-Are-DNS-Records/?utm_referrer=https%3A%2F%2Fwww.google.com%2F#understanding-dns-records</li>
+    <li>https://www.name.com/blog/4-dns-record-types-you-should-know-about</li>
+    <li>https://www.youtube.com/watch?v=6uEwzkfViSM</li>   
+  </ul>
