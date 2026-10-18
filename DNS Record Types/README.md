@@ -25,5 +25,17 @@ DNS Record Type (Pi-hole)
       <td>Maps a domain name to a 128-bit IPv6 address</td>
       <td>example.com &rarr; 2001:db8::1</td>
     </tr>
+    <tr>
+      <td>PTR</td>
+      <td>Pointer Record</td>
+      <td>Performs a reverse DNS lookup (IP to domain)</td>
+      <td>1.2.0.102.in-addr.arpa &rarr; example.com</td>
+    </tr>
+    <tr>
+      <td>HTTPS</td>
+      <td>HTTPS Binding Record</td>
+      <td>Provides connection parameters and encryption keys before connection</td>
+      <td>Reduces overhead by avoiding unencrypted HTTP redirects</td>
+    </tr>
   </tbody>
 </table>
