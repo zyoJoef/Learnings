@@ -61,8 +61,7 @@
     <li><b>Security</b>: Many public options support security layers like DNS over HTTPS (DoH) and DNS over TLS (DoT) to encrypt your traffic, or automatically filter out phishing and malicious domains.</li>
     <li><b>Privacy</b>: Providers like Cloudflare and Quad9 commit to never logging or selling your browsing data.</li>
   </ul>
-You can look up alternative live server addresses on databases like Public DNS Server List or test your current connection using tools on DNSChecker
-
+You can look up alternative live server addresses on databases like <a href="https://public-dns.info/">Public DNS Server List</a> or test your current connection using tools on <a href="https://dnschecker.org/public-dns">DNSChecker</a> 
 
 
 <h2>References</h2>
