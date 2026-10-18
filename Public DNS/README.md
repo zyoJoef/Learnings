@@ -7,7 +7,7 @@
 <h2>Top Free Public DNS Provider</h2>
 <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; font-family: sans-serif;">
   <thead>
-    <tr style="background-color: #f2f2f2; text-align: left;">
+    <tr style="text-align: left;">
       <th>Provider</th>
       <th>Primary IPv4</th>
       <th>Secondary IPv4</th>
