@@ -26,6 +26,18 @@ DNS Record Type (Pi-hole)
       <td>example.com &rarr; 2001:db8::1</td>
     </tr>
     <tr>
+      <td>SRV</td>
+      <td>Service Record</td>
+      <td>Specifies the host and port number for specific services (e.g., SIP, XMPP).</td>
+      <td>_sip._tcp.example.com. IN SRV 10 60 5060 sipserver.example.com.</td>
+    </tr>
+    <tr>
+      <td>SOA</td>
+      <td>Start of Authority</td>
+      <td>Contains core administrative metadata about the DNS zone, including the primary nameserver and serial number.</td>
+      <td>example.com. IN SOA ns1.example.com. admin.example.com. (2026101801 7200 3600 1209600 3600)</td>
+    </tr>
+    <tr>
       <td>PTR</td>
       <td>Pointer Record</td>
       <td>Performs a reverse DNS lookup (IP to domain)</td>
