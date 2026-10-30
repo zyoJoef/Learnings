@@ -68,7 +68,7 @@ Pi-hole Query Types
 <h2>PTR Records (Reverse Lookups)</h2>
   <p>Unlike A and AAAA records a <b>PTR record</b> starts with the IP address and looks up the associated domain name. It is configured inside a special top level routing domain called .arpa</p>
     <ul>
-      <li>Common Use Case: Mostly utilized by emall servers to verify the sender's identity. It a mail server claims to be from company.com but its IP address's PTR record points somewhere else, receiving servers will            likely flag the email as spam.</li>
+      <li>Common Use Case: Mostly utilized by email servers to verify the sender's identity. If a mail server claims to be from company.com but its IP address's PTR record points somewhere else, receiving servers will            likely flag the email as spam.</li>
     </ul>
 
 
