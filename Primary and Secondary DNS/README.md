@@ -17,10 +17,22 @@ Primary and secondary DNS servers work together as a master-and-copy system to t
   <li>Load Balancing: Both servers can actively respond to queries, sharing the workload and providing faster response times depending on user location.</li>
 </ul>
 
+<h2>Note</h2>
+<p>
+  Note: On client devices or home routers, operating systems may query servers in different ways rather than sticking strictly to a rigid "primary then secondary" sequence, though opinions on client behavior differ across platforms.
+</p>
+
 <h2>References</h2>
 <ul>
   <li>https://www.youtube.com/watch?v=qhiyTH5B21A&t=63s</li>
   <li>https://www.youtube.com/watch?v=kiVIaQF_3Yc</li>
   <li>https://www.ibm.com/think/topics/primary-vs-secondary-dns</li>
-  
+  <li>https://www.cloudflare.com/learning/dns/glossary/primary-secondary-dns/</li>
+  <li>https://learn.microsoft.com/en-us/answers/questions/621888/primary-and-secondary-dns-working</li>
+  <li>https://leasepacket.com/primary-vs-secondary-dns-servers/</li>
+  <li>https://www.cloudns.net/blog/master-slave-dns/</li>
+  <li>https://www.youtube.com/watch?v=-iQ4XvfkJ10</li>
+  <li>https://www.digicert.com/blog/what-is-primary-dns</li>
+  <li>https://www.youtube.com/shorts/913tWov7gvU</li>
+  <li>https://www.reddit.com/r/HomeNetworking/comments/18acmex/how_does_typical_home_wifi_routers_use_primary/</li>
 </ul>
