@@ -14,7 +14,7 @@ Primary and secondary DNS servers work together as a master-and-copy system to t
   <li><b>Zone Transfers:</b> It stays synchronized through automated updates called zone transfers (using protocols like AXFR or IXFR) whenever the primary server changes its serial number.</li>
   <li><b>Failover & Redundancy:</b> If the primary server crashes, goes offline, or experiences a network outage, the secondary server steps in seamlessly to answer DNS queries without dropping user traffic.
   </li>
-  <li><b>RLoad Balancing:</b> Both servers can actively respond to queries, sharing the workload and providing faster response times depending on user location.</li>
+  <li><b>Load Balancing:</b> Both servers can actively respond to queries, sharing the workload and providing faster response times depending on user location.</li>
 </ul>
 
 <h2>Note</h2>
