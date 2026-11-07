@@ -19,7 +19,7 @@ Primary and secondary DNS servers work together as a master-and-copy system to t
 
 <h2>Note</h2>
 <p>
-  Note: On client devices or home routers, operating systems may query servers in different ways rather than sticking strictly to a rigid "primary then secondary" sequence, though opinions on client behavior differ across platforms such as Reddit.
+  On client devices or home routers, operating systems may query servers in different ways rather than sticking strictly to a rigid "primary then secondary" sequence, though opinions on client behavior differ across platforms such as Reddit.
 </p>
 
 <h2>References</h2>
