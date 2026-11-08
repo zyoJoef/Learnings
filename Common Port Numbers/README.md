@@ -38,10 +38,9 @@ and dynamic/private ports (49152–65535).
 
 <h2>Other Popular Application Ports</h2>
 <ul>
-<li>Port 8080: HTTP Alternate — The most common port for running a secondary web server, proxy, or local development environment (e.g., Apache Tomcat, Node.js).</li>
-<li>Port 8443: HTTPS Alternate — Used as a non-privileged alternative for secure web traffic, often for web server admin consoles.</li>
-<li>Port 8000 / 3000 / 5000: Common Web Dev Frameworks — Popular defaults for local testing (e.g., Port 3000 for React/Node, Port 5000 for Flask/Python, Port 8000 for Django).</li>
-<li>Port 9000: SonarQube / PHP-FPM — Frequently used for code quality tools and FastCGI applications.</li>
+  <li>Port 161 / 162: Simple Network Management Protocol (SNMP) — Used for monitoring and managing network hardware.</li>
+  <li>Port 5060 / 5061: Session Initiation Protocol (SIP) — Used for initiating Voice over IP (VoIP) calls and video traffic.</li>
+  <li>Port 8081 / 8088: Proxy and Automation — Frequently utilized by alternative proxy managers or tools like Jenkins.</li>
 </ul>
 
 <h2>References</h2>
@@ -54,14 +53,4 @@ and dynamic/private ports (49152–65535).
   <li>https://www.slideshare.net/slideshow/20-common-port-numbers-and-their-purposes/54816945</li>
   <li>https://www.youtube.com/watch?v=g2fT-g9PX9o&t=1s</li>
   <li>https://www.youtube.com/watch?v=yLuaVkxvmk4&t=116s</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
 </ul>
