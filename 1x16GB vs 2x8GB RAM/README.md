@@ -21,3 +21,9 @@ doubling your memory bandwidth. However, the choice depends on your upgrade path
   <li><b>Go with 2x8GB if:</b> You have extra slots or plan to stay at 16GB for the life of the machine, and you want maximum                 performance for gaming or integrated graphics.</li>
   <li><b>Go with a single 16GB if:</b> You are on a 2-slot motherboard (like a compact PC or laptop) and plan to buy another 16GB stick       to reach 32GB in the near future.</li>
 </ul>
+
+<h2>References</h2>
+<ul>
+  <li>https://www.reddit.com/r/buildapc/comments/puhbu1/is_it_better_to_have_2x8_gb_ram_or_1x16_gb_ram/</li>
+  <li></li>
+</ul>
