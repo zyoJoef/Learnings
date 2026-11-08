@@ -20,6 +20,14 @@ and dynamic/private ports (49152–65535).
 <li>Port 3389: Remote Desktop Protocol (RDP) — Used for graphical remote desktop connections.</li>
 </ul>
 
+<h2>Common Alternative & Web Development Ports</h2>
+<ul>
+<li>Port 8080: HTTP Alternate — The most common port for running a secondary web server, proxy, or local development environment (e.g., Apache Tomcat, Node.js).</li>
+<li>Port 8443: HTTPS Alternate — Used as a non-privileged alternative for secure web traffic, often for web server admin consoles.</li>
+<li>Port 8000 / 3000 / 5000: Common Web Dev Frameworks — Popular defaults for local testing (e.g., Port 3000 for React/Node, Port 5000 for Flask/Python, Port 8000 for Django).</li>
+<li>Port 9000: SonarQube / PHP-FPM — Frequently used for code quality tools and FastCGI applications.</li>
+</ul>
+
 <h2>References</h2>
 <ul>
   <li>https://opensource.com/article/18/10/common-network-ports</li>
