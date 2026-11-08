@@ -12,6 +12,12 @@ doubling your memory bandwidth. However, the choice depends on your upgrade path
 
 <h2>Upgrade Path & Future-Proofing: Single 16GB vs. 2x8GB</h2>
 <ul>
-  <li><b>Single 16GB (1x16GB):</b> Leaves an open slot on your motherboard. If you have only two total RAM slots (common on many budget      motherboards or laptops), buying 1x16GB lets you easily upgrade to 32GB later by adding a second 16GB stick.</li>
-  <li><b>2x8GB (Dual 8GB):</b> Fills two slots right away. If your motherboard only has two slots, upgrading to 32GB later means             throwing away or selling the two 8GB sticks. If your motherboard has four slots, this is less of an issue.</li>
+  <li><b>Single 16GB (1x16GB):</b> Leaves an open slot on your motherboard. If you have only two total RAM slots (common on many budget        motherboards or laptops), buying 1x16GB lets you easily upgrade to 32GB later by adding a second 16GB stick.</li>
+  <li><b>2x8GB (Dual 8GB):</b> Fills two slots right away. If your motherboard only has two slots, upgrading to 32GB later means               throwing away or selling the two 8GB sticks. If your motherboard has four slots, this is less of an issue.</li>
+</ul>
+
+<h2>Which Should You Choose?</h2>
+<ul>
+  <li><b>Go with 2x8GB if:</b> You have extra slots or plan to stay at 16GB for the life of the machine, and you want maximum                 performance for gaming or integrated graphics.</li>
+  <li><b>Go with a single 16GB if:</b> You are on a 2-slot motherboard (like a compact PC or laptop) and plan to buy another 16GB stick       to reach 32GB in the near future.</li>
 </ul>
