@@ -30,10 +30,12 @@ and dynamic/private ports (49152–65535).
 
 <h2>Common Database Ports</h2>
 <ul>
-<li>Port 8080: HTTP Alternate — The most common port for running a secondary web server, proxy, or local development environment (e.g., Apache Tomcat, Node.js).</li>
-<li>Port 8443: HTTPS Alternate — Used as a non-privileged alternative for secure web traffic, often for web server admin consoles.</li>
-<li>Port 8000 / 3000 / 5000: Common Web Dev Frameworks — Popular defaults for local testing (e.g., Port 3000 for React/Node, Port 5000 for Flask/Python, Port 8000 for Django).</li>
-<li>Port 9000: SonarQube / PHP-FPM — Frequently used for code quality tools and FastCGI applications.</li>
+<li>Port 1433: Microsoft SQL Server — Default port for MSSQL database connections.</li>
+<li>Port 3306: MySQL — The standard port used to connect to MySQL and MariaDB databases.</li>
+<li>Port 5432: PostgreSQL — The default port for the Postgres database engine.</li>
+<li>Port 6379: Redis — Used for connecting to the Redis in-memory data store cache.</li>
+<li>Port 27017: MongoDB — The standard port for the Mongo NoSQL database.</li>
+</li>
 </ul>
 
 <h2>Other Popular Application Ports</h2>
