@@ -3,7 +3,7 @@ Network ports are virtual communication endpoints used by operating systems to s
 or services. They range from 0 to 65535 and are categorized into well-known ports (0–1023), registered ports (1024–49151), 
 and dynamic/private ports (49152–65535).
 
-<h2>Common Port Numbers</h2>
+<h2>Common Well-Known Port Numbers</h2>
 <ul>
 <li>Port 20 / 21: File Transfer Protocol (FTP) — Port 20 is used for data transfer, and Port 21 is used for command control.</li>
 <li>Port 22: Secure Shell (SSH) — Used for encrypted remote login and secure file transfers (SFTP).</li>
