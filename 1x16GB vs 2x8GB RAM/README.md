@@ -25,5 +25,9 @@ doubling your memory bandwidth. However, the choice depends on your upgrade path
 <h2>References</h2>
 <ul>
   <li>https://www.reddit.com/r/buildapc/comments/puhbu1/is_it_better_to_have_2x8_gb_ram_or_1x16_gb_ram/</li>
-  <li></li>
+  <li>https://www.quora.com/Should-I-get-a-single-16GB-RAM-or-2-8GB-RAM-Which-is-better</li>
+  <li>https://learn.microsoft.com/en-us/answers/questions/3933509/2x8gb-or-1x16gb-ram-whats-better-and-why</li>
+  <li>https://linustechtips.com/topic/1420485-1x16-gb-ddr4-ram-vs-2x8-gb-ddr4-ram/</li>
+  <li>https://www.youtube.com/watch?v=DsWuhrdvZUk</li>
+  <li>https://www.youtube.com/watch?v=w70NwhED9Lg&t=6s</li>
 </ul>
