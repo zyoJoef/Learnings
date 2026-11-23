@@ -25,11 +25,8 @@ A subnet mask is 32 bits long, divided into four octets, and each subnet mask se
     You can explore a full breakdown of prefixes and host counts in the <a href="https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/">freeCodeCamp Subnet Cheat Sheet</a>.
  </li>
   <li>Consistency on a Network: Most users on <a href="https://www.reddit.com/r/HomeNetworking/comments/zpiyeb/what_is_the_difference_between_subnet_masks/)">Reddit's r/HomeNetworking</a> agree that mismatched subnet masks across devices on the same local network can cause connectivity problems. 
-    Likewise, most users on  agree that using broader masks like 255.0.0.0 on private LANs requires care to avoid unintended IP range conflicts.</li>
+    Likewise, most users on <a href="https://networkengineering.stackexchange.com/questions/25952/is-there-a-downside-to-using-a-subnet-mask-other-than-255-255-255-0">Network Engineering Stack Exchange</a> agree that using broader masks like 255.0.0.0 on private LANs requires care to avoid unintended IP range conflicts.</li>
 </ul>
-
-<a href="https://www.example.com">Clickable Link Text</a>
-Network Engineering Stack Exchange
 
 <h2>References</h2>
 <ul>
