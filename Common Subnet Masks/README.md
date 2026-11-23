@@ -20,7 +20,6 @@ A subnet mask is 32 bits long, divided into four octets, and each subnet mask se
 
 <h2>Things to Keep in Mind</h2>
 <ul>
-
   <li>CIDR Notation: Network engineers often write /24, /16, or /30 instead of typing out the full four-part mask. 
     You can explore a full breakdown of prefixes and host counts in the <a href="https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/">freeCodeCamp Subnet Cheat Sheet</a>.
  </li>
