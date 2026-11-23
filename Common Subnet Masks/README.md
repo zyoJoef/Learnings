@@ -30,5 +30,10 @@ A subnet mask is 32 bits long, divided into four octets, and each subnet mask se
 
 <h2>References</h2>
 <ul>
-  <li></li>
+  <li>https://networkengineering.stackexchange.com/questions/25952/is-there-a-downside-to-using-a-subnet-mask-other-than-255-255-255-0</li>
+  <li>https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/</li>
+  <li>https://www.reddit.com/r/HomeNetworking/comments/zpiyeb/what_is_the_difference_between_subnet_masks/</li>
+  <li>https://www.ipxo.com/subnet-cheat-sheet/</li>
+  <li>https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting</li>
+  <li>https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html</li>
 </ul>
